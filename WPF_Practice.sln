@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_使用代码创建WPF应用程序", "P2_使用代码创建WPF应用程序\P2_使用代码创建WPF应用程序.csproj", "{2ADFDA43-5C4F-4218-8981-068C45C8CB0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPractice", "GridPractice\GridPractice.csproj", "{F3636E5F-B022-4D00-B30E-51A34C76227A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2ADFDA43-5C4F-4218-8981-068C45C8CB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ADFDA43-5C4F-4218-8981-068C45C8CB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ADFDA43-5C4F-4218-8981-068C45C8CB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

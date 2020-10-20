@@ -18,7 +18,7 @@ namespace P2_使用代码创建WPF应用程序
         static void Main()
         {
             Program app = new Program();
-            app.MainWindow = new Window1();  // 
+            app.MainWindow = new Window2();
             app.MainWindow.ShowDialog();     // 以模态的方式打开
         }
     }
