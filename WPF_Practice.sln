@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2_使用代码创建WPF应
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPractice", "GridPractice\GridPractice.csproj", "{F3636E5F-B022-4D00-B30E-51A34C76227A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasAndInkCanvasPractice", "CanvasPractice\CanvasAndInkCanvasPractice.csproj", "{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3636E5F-B022-4D00-B30E-51A34C76227A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
