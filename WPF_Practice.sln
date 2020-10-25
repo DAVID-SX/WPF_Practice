@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridPractice", "GridPractic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasAndInkCanvasPractice", "CanvasPractice\CanvasAndInkCanvasPractice.csproj", "{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_ 键盘输入", "P9_ 键盘输入\P9_ 键盘输入.csproj", "{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFAF2B0-23B8-48BD-8504-7539FC3D6881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
