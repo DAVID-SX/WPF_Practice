@@ -1,0 +1,31 @@
+﻿<Window x:Class="控件练习项目.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:控件练习项目"
+        mc:Ignorable="d"
+        Title="TabContorl" Height="450" Width="400">
+    <Grid>
+        <!--TabStripPlacement决定TabItem切换符号的位置-->
+        <TabControl Margin="3" Name="tabControl1" TabStripPlacement="Top">
+            <!--可以添加多个TabItem-->
+            <!--Header除了文本还还可以以容器的方式设置为控件-->
+            <!--当IsSelected属性为真时TabItem会被选中-->
+            <TabItem Header="tabItem1"  Name="tabItem1">
+                <StackPanel>
+                    <CheckBox Content="1" Height="17" Margin="3"/>
+                    <CheckBox Content="2" Height="17" Margin="3"/>
+                    <CheckBox Content="3" Height="17" Margin="3"/>
+                </StackPanel>
+            </TabItem>
+            <TabItem Header="tabItem2"  Name="tabItem2">
+                <StackPanel>
+                    <CheckBox Content="1" Height="17" Margin="3"/>
+                    <CheckBox Content="2" Height="17" Margin="3"/>
+                    <CheckBox Content="3" Height="17" Margin="3"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

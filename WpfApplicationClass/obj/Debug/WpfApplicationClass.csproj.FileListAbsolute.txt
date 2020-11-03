@@ -1,0 +1,15 @@
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\bin\Debug\WpfApplicationClass.exe.config
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\bin\Debug\WpfApplicationClass.exe
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\bin\Debug\WpfApplicationClass.pdb
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.csprojAssemblyReference.cache
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\MainWindow.g.cs
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\App.g.cs
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass_MarkupCompile.cache
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass_MarkupCompile.lref
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\MainWindow.baml
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.g.resources
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.Properties.Resources.resources
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.csproj.GenerateResource.cache
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.csproj.CoreCompileInputs.cache
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.exe
+E:\#7-代码文件\WPF_Practice\WpfApplicationClass\obj\Debug\WpfApplicationClass.pdb

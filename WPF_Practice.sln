@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasAndInkCanvasPractice"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_ 键盘输入", "P9_ 键盘输入\P9_ 键盘输入.csproj", "{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "鼠标输入", "鼠标输入\鼠标输入.csproj", "{1542DB3E-41BB-4943-BF1B-DB425D74F755}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBox", "GroupBox\GroupBox.csproj", "{0846FD6D-6FF0-402C-BDB5-D8FBF077521F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expander", "Expander\Expander.csproj", "{D77EBE70-F792-4893-9C9C-F969A2F0D08B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplicationClass", "WpfApplicationClass\WpfApplicationClass.csproj", "{AFE39C25-FED1-46EE-9CAF-D7DE79FB99F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P21_SingleInstance", "P21_SingleInstance\P21_SingleInstance.csproj", "{48F9F21D-F699-460B-973B-20D58E8C523E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD733A11-7478-4707-AD2D-7B4ABC0AA1B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1542DB3E-41BB-4943-BF1B-DB425D74F755}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1542DB3E-41BB-4943-BF1B-DB425D74F755}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1542DB3E-41BB-4943-BF1B-DB425D74F755}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1542DB3E-41BB-4943-BF1B-DB425D74F755}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0846FD6D-6FF0-402C-BDB5-D8FBF077521F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0846FD6D-6FF0-402C-BDB5-D8FBF077521F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0846FD6D-6FF0-402C-BDB5-D8FBF077521F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0846FD6D-6FF0-402C-BDB5-D8FBF077521F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77EBE70-F792-4893-9C9C-F969A2F0D08B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77EBE70-F792-4893-9C9C-F969A2F0D08B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77EBE70-F792-4893-9C9C-F969A2F0D08B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77EBE70-F792-4893-9C9C-F969A2F0D08B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE39C25-FED1-46EE-9CAF-D7DE79FB99F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE39C25-FED1-46EE-9CAF-D7DE79FB99F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE39C25-FED1-46EE-9CAF-D7DE79FB99F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE39C25-FED1-46EE-9CAF-D7DE79FB99F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F9F21D-F699-460B-973B-20D58E8C523E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F9F21D-F699-460B-973B-20D58E8C523E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F9F21D-F699-460B-973B-20D58E8C523E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F9F21D-F699-460B-973B-20D58E8C523E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

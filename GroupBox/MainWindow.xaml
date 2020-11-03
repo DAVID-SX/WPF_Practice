@@ -1,0 +1,20 @@
+﻿<Window x:Class="GroupBox.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroupBox"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid>
+        <!--Header决定空间左上角显示的标题-->
+        <!--GroupBox内只能放置一个控件，可以放置布局容器来变相的放置多个控件-->
+        <GroupBox x:Name="groupBox1" Margin="5" Header="groupBox2">
+            <StackPanel>
+                <RadioButton Content="1" Height="17" Margin="3"/>
+                <RadioButton Content="2" Height="17" Margin="3"/>
+                <RadioButton Content="3" Height="17" Margin="3"/>
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

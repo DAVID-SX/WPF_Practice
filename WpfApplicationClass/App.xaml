@@ -1,0 +1,14 @@
+﻿<Application x:Class="WpfApplicationClass.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApplicationClass" Startup="Application_Startup"
+              >
+    <!--StartupUri用来确定代表主窗口的xaml文档-->
+    <!--ShutdowmMode决定应用程序的关闭方式-->
+    <!--OnExplicitShutdown：即使所有的窗口都已经关闭，application类也不会关闭除非调用application的shutdown方法-->
+    <!--OnLastWindowClose：默认模式，只要还有一个窗口存在应用程序就保持为运行状态-->
+    <!--OnMainWindowClose：之要主窗体处于打开状态Application类就处于打开状态-->
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
